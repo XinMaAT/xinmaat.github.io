@@ -1,0 +1,1 @@
+(self.webpackChunkchrismahome=self.webpackChunkchrismahome||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/site to site VPN with Azure"},{"title":"Hello","permalink":"/blog/hello-world"},{"title":"Hola","permalink":"/blog/hola"}]}')}}]);
