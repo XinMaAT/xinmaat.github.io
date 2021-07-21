@@ -1,0 +1,1 @@
+(self.webpackChunkchrismahome=self.webpackChunkchrismahome||[]).push([[929],{7333:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"new-routine","name":"new routine","count":1,"permalink":"/blog/tags/new-routine"}')}}]);

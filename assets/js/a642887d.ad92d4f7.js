@@ -1,0 +1,1 @@
+(self.webpackChunkchrismahome=self.webpackChunkchrismahome||[]).push([[298],{1102:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"chirs-ma","name":"chirs ma","count":1,"permalink":"/blog/tags/chirs-ma"}')}}]);

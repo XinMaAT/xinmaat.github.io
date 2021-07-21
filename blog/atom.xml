@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://xinmaat.github.io/blog</id>
     <title>Chris Ma Blog</title>
-    <updated>2021-07-01T00:00:00.000Z</updated>
+    <updated>2021-07-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://xinmaat.github.io/blog"/>
     <subtitle>Chris Ma Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://xinmaat.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>site to site VPN with Azure</id>
-        <link href="https://your-docusaurus-test-site.com/blog/site to site VPN with Azure"/>
-        <updated>2021-07-01T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[which Azure Storage to use?]]></title>
+        <id>my-azure-storage</id>
+        <link href="https://xinmaat.github.io/blog/my-azure-storage"/>
+        <updated>2021-07-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello]]></title>
-        <id>hello-world</id>
-        <link href="https://your-docusaurus-test-site.com/blog/hello-world"/>
-        <updated>2021-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></summary>
+        <title type="html"><![CDATA[site to site VPN with Azure]]></title>
+        <id>azure-site2sitevpn</id>
+        <link href="https://xinmaat.github.io/blog/azure-site2sitevpn"/>
+        <updated>2021-07-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hola]]></title>
-        <id>hola</id>
-        <link href="https://your-docusaurus-test-site.com/blog/hola"/>
-        <updated>2021-04-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <title type="html"><![CDATA[my first blog]]></title>
+        <id>hello-myblog</id>
+        <link href="https://xinmaat.github.io/blog/hello-myblog"/>
+        <updated>2021-07-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[in each year resolution,]]></summary>
     </entry>
 </feed>

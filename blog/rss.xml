@@ -2,31 +2,31 @@
 <rss version="2.0">
     <channel>
         <title>Chris Ma Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://xinmaat.github.io/blog</link>
         <description>Chris Ma Blog</description>
-        <lastBuildDate>Thu, 01 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/site to site VPN with Azure</link>
-            <guid>site to site VPN with Azure</guid>
-            <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
+            <title><![CDATA[which Azure Storage to use?]]></title>
+            <link>https://xinmaat.github.io/blog/my-azure-storage</link>
+            <guid>my-azure-storage</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
         </item>
         <item>
-            <title><![CDATA[Hello]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Sat, 29 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></description>
+            <title><![CDATA[site to site VPN with Azure]]></title>
+            <link>https://xinmaat.github.io/blog/azure-site2sitevpn</link>
+            <guid>azure-site2sitevpn</guid>
+            <pubDate>Sat, 10 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
         </item>
         <item>
-            <title><![CDATA[Hola]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/hola</link>
-            <guid>hola</guid>
-            <pubDate>Tue, 13 Apr 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <title><![CDATA[my first blog]]></title>
+            <link>https://xinmaat.github.io/blog/hello-myblog</link>
+            <guid>hello-myblog</guid>
+            <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[in each year resolution,]]></description>
         </item>
     </channel>
 </rss>
